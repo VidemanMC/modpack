@@ -1,5 +1,5 @@
 ## About
-In this repository stored modpack of Videman server, grouped to server and client parts.
+In this repository a modpack of Videman server is stored, grouped to server and client parts.
 
 ## Work algorithm:
 1. Someone of us adds new mods and pushes changes to this repo.
