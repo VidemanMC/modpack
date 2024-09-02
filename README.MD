@@ -6,7 +6,7 @@ In this repository a modpack of Videman server is stored, grouped to server and 
 2. Then person who publishes modpack, selects mods, for client and server, from directory `mods`.
     1. Additionally, for server part, the person selects mods from `mods/server`.
     1. And for client from `/mods/client`.
-3. `config/` directory is for client.
+3. `config/` directory folowing the same rules.
 
 ## For what
 This work strategy need to keep modpack structure clean.
