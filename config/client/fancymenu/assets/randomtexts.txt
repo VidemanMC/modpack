@@ -1,0 +1,4 @@
+skins/whitelight.png
+skins/wwelol08__.png
+
+{"placeholder":"randomtext","values":{"path":"randomtexts.txt","interval":"10"}}
