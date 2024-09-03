@@ -1,2 +1,32 @@
 type = user_variables
 
+variable {
+  name = skin_model_url
+  value = https://i.imgur.com/1qy2WtT.png
+  reset_on_launch = false
+}
+
+variable {
+  name = selected_quit
+  value = selested_buttons/selected_empty.png
+  reset_on_launch = false
+}
+
+variable {
+  name = selected_setings_skins
+  value = selested_buttons/selected_empty.png
+  reset_on_launch = false
+}
+
+variable {
+  name = selected_s_mult
+  value = selested_buttons/selected_s_mult.png
+  reset_on_launch = false
+}
+
+variable {
+  name = selected_mods
+  value = selested_buttons/selected_empty.png
+  reset_on_launch = false
+}
+
