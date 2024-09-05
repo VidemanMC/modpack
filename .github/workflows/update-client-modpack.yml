@@ -27,7 +27,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: Create client modpack
         run: |
-          rm videman-modpack.zip
           zip videman-modpack.zip mods/*.jar options.txt resourcepacks/** -x mods/client mods/server
           mv mods/client tclient
           rm -R mods
