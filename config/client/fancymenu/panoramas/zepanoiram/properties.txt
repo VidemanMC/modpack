@@ -1,8 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = zepanoiram
-  speed = 1.0
-  fov = 81.0
-  angle = 25.0
-}
