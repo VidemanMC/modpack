@@ -1,6 +1,12 @@
 type = user_variables
 
 variable {
+  name = selected_name
+  value = wwelol08__
+  reset_on_launch = false
+}
+
+variable {
   name = skin_model_url
   value = https://i.imgur.com/1qy2WtT.png
   reset_on_launch = false
@@ -13,8 +19,50 @@ variable {
 }
 
 variable {
+  name = left_leg
+  value = -28
+  reset_on_launch = false
+}
+
+variable {
   name = selected_setings_skins
   value = selested_buttons/selected_empty.png
+  reset_on_launch = false
+}
+
+variable {
+  name = left_hand
+  value = 28
+  reset_on_launch = false
+}
+
+variable {
+  name = player_type
+  value = 1.0
+  reset_on_launch = false
+}
+
+variable {
+  name = 0
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = custom_name
+  value = collname
+  reset_on_launch = false
+}
+
+variable {
+  name = right_leg
+  value = 28
+  reset_on_launch = false
+}
+
+variable {
+  name = right_hand
+  value = -28
   reset_on_launch = false
 }
 
@@ -25,8 +73,20 @@ variable {
 }
 
 variable {
+  name = press_me
+  value = press_me
+  reset_on_launch = false
+}
+
+variable {
   name = selected_mods
   value = selested_buttons/selected_empty.png
+  reset_on_launch = false
+}
+
+variable {
+  name = user_variables
+  value = whitelight
   reset_on_launch = false
 }
 
