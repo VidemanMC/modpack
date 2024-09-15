@@ -9,7 +9,7 @@
   },
   "meanAvgTickTime": {
     "desc:": "The average tick time to stabilize the distances around. Setting it higher than 50ms is not advised, as after 50ms the TPS will go below 20. Default: 45ms, min: 10, max:100",
-    "meanAvgTickTime": 70
+    "meanAvgTickTime": 50
   },
   "viewDistanceUpdateRate": {
     "desc:": "The change frequency of distances in seconds. Default: 30, min:1, max:1000",
