@@ -124,6 +124,7 @@ mods/betterpingdisplay-1.20.1-1.1.jar:2a331e8f5a7cc2609d67f7975fba7d7e
 mods/embeddium-0.3.30+mc1.20.1.jar:adac1c5669c7ff5eee0ced92b9346c75
 mods/oculus-mc1.20.1-1.7.0.jar:45b96133bb46cc61dd9778bd4fca741d
 mods/cavedust-2.0.4-1.20.1-forge.jar:be740dbb420d53d0107704e8951b330c
+mods/justzoom_forge_2.0.0_MC_1.20.1.jar:10fd88f5e5a4faf73df0c41bad8374a3
 mods/BetterThirdPerson-Forge-1.20-1.9.0.jar:298625b2f4567069bcfbea3dceba294d
 mods/BetterAdvancements-NeoForge-1.20.1-0.4.2.10.jar:6c2889c4f7b581c03420e6705ff4bd27
 mods/loot_journal-3.1.1.jar:6e93279c786b8d0378e699f2bc3363c8
