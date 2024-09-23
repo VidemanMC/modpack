@@ -1,7 +1,7 @@
 version:3465
 autoJump:false
-resourcePacks:["vanilla","mod_resources","file/[1.3] Enhanced Boss Bars.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip"]
-incompatibleResourcePacks:["file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip"]
+resourcePacks:["vanilla","mod_resources","file/[1.3] Enhanced Boss Bars.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip","Moonlight Mods Dynamic Assets","black_icons","vampirism2dtextures","file/BotaniaRevamped_1.1.0.zip"]
+incompatibleResourcePacks:["file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip","file/BotaniaRevamped_1.1.0.zip"]
 lastServer:
 lang:ru_ru
 soundDevice:""
