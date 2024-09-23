@@ -26,7 +26,7 @@ variable {
 
 variable {
   name = selected_setings_skins
-  value = selested_buttons/selected_empty.png
+  value = press_me.png
   reset_on_launch = false
 }
 
