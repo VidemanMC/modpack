@@ -137,6 +137,7 @@ mods/JustEnoughResources-1.20.1-1.4.0.247.jar:bd7166a2e9361ef5e8b616edfa2028f4
 mods/drippyloadingscreen_forge_3.0.1_MC_1.20.1.jar:85749848e1dfd2a7e790df78e4cc4d0b
 mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar:434195aff2ce2f48b3aea5434b281e71
 mods/Xaeros_Minimap_24.4.0_Forge_1.20.jar:8e6213d8af09b40282230f0dd3abdc7c
+mods/GeckoJS-2001forge-1.5.0.jar:477762797d6e4e66d766b5630985c8e7
 mods/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar:f61cc3ea7c32ce7839467caf0ac0f113
 mods/dynamic-fps-3.6.3+minecraft-1.20.0-forge.jar:8078f9a49aec5fa64a4711cc301eb6fa
 mods/chat_heads-0.12.13-forge-1.20.jar:c4370774193fdf33dda77e60081f6e20
@@ -159,6 +160,7 @@ mods/libnonymous-1.20.1-2.3.1.jar:a811bd04944e7ede619c3f50ddffbf06
 mods/framework-forge-1.20.1-0.7.6.jar:893efb834cfc0b4ff518ad88897d4ba1
 mods/NaturesCompass-1.20.1-1.11.2-forge.jar:7c05072645b1aae529b1e38c74b87c4c
 mods/liosplayeranimatorapi-forge-1.20.1-0.0.8.jar:639ce31a8381a24987ef85673368d2ce
+mods/rhino-forge-2001.2.3-build.6.jar:c6f376b91e330b5e220541aab5edd92f
 mods/cloth-config-11.1.106-forge.jar:17794d377921e9cd96b30250a7b13156
 mods/Searchables-forge-1.20.1-1.0.3.jar:9f5418e9c08c18a375ef42fada4bcef2
 mods/bettercombat-forge-1.8.6+1.20.1.jar:28f4682af86e8bdee7b808fa0adbdf81
@@ -180,6 +182,7 @@ mods/coroutil-forge-1.20.1-1.3.7.jar:6fb9ccbe8c05c1da61c224d1127e9643
 mods/EvilCraft-1.20.1-1.2.44.jar:bdc561250d41cb7db281167ff2125626
 mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar:46f8554181d4d240075ea4919d01fd01
 mods/kubejsadditions-forge-4.3.2.jar:1678198564197d067a64fd058c2ad5a3
+mods/Jade-1.20.1-forge-11.11.1.jar:fafa657e924a26031c174e7ab1484c8e
 mods/Vampirism-1.20.1-1.10.9.jar:d74c4f8efc29da4a9cdd9e93b4c2fb0b
 mods/goblintraders-forge-1.20.1-1.9.3.jar:acbba033aadeecf04cd702aca05c02d4
 mods/FastSuite-1.20.1-5.0.1.jar:a355432ffcf3e2f60fa9a19268468be5
@@ -258,13 +261,11 @@ mods/voicechat-forge-1.20.1-2.5.21.jar:3910b505142d2aeafba891dc7f20e183
 mods/jei-1.20.1-forge-15.3.0.4.jar:8f2c0bbb8f691be76f0b44c1d61d94e7
 mods/aquacombat 1.2.jar:c668c59c73c50872641576a4e90f2bd2
 mods/FastWorkbench-1.20.1-8.0.4.jar:2b55c4786cc726b0757689af28b97e7e
-mods/GeckoJS-2001forge-1.5.0.jar:477762797d6e4e66d766b5630985c8e7
 mods/Nedologin-1.20.1-1.0.8-all.jar:49d1b059af003c9099f65d75147cd018
 mods/Apotheosis-1.20.1-7.4.2.jar:24cc9fbfb3cb5e79803057c521b9358a
 mods/architectury-9.2.14-forge.jar:76b40d407b6bf0257dd1dab6d3d395d5
 mods/vampirism_integrations-1.20.1-1.8.0.jar:97bc8fdf1a58e1b18c04d6019144bc59
 mods/alexsmobs-1.22.8.jar:0ad246393c7f9849df1e3e0af7f28872
-mods/Jade-1.20.1-forge-11.7.1.jar:7ef11e0e67625f29c73d226bc6d94a7a
 mods/irons_spells_js-1.20.1-3.1.1-release.jar:501bb3e80966705b6789c7deb5b54d74
 mods/ftb-library-forge-2001.2.4.jar:e60f8af3ffa7cb3ccffee661efa5de15
 mods/Divine_Weaponry_v1.7_1.20.1.jar:9540bfac418b81952c846256426605a4
