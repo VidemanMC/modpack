@@ -83,6 +83,7 @@ config/fancymenu/panoramas/zepanoiram/panorama/panorama_0.png:eade7195fc8213fa25
 config/fancymenu/panoramas/zepanoiram/panorama/panorama_5.png:0d701f352dde9200963fc8e9328592fa
 config/fancymenu/panoramas/zepanoiram/properties.txt:1fc5b74612787f2673da048cb31a96fe
 config/sodium-extra-options.json:59ccc0556cbbe2d6cede0f4b99b6d324
+config/watut-client.toml:a0af6bfed220688a20979188b034bb34
 options.txt:0677763a89a2ee2529407a1a512c01c3
 resourcepacks/xali's Bushy Leaves v3.5.0.zip:dc0987338225018fb6b923fa0eb46422
 resourcepacks/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip:8bb0c3327669d07acdc054c3210cee9d
