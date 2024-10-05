@@ -2,6 +2,31 @@ StartupEvents.registry('creative_mode_tab', event => {
 	event.create('videman_the_missing_part').icon(() => 'kubejs:vide_block').content(() => [
         'kubejs:rotten_skin',
 		'kubejs:vide_block',
-        'kubejs:vide_item'
+        'kubejs:vide_item',
+		'kubejs:rune_air_double',
+		'kubejs:rune_earth_double',
+		'kubejs:rune_fire_double',
+		'kubejs:rune_water_double',
+		'kubejs:rune_1tire_pile',
+		'kubejs:rune_1mound_pile',
+		'kubejs:rune_summer_double',
+		'kubejs:rune_autumn_double',
+		'kubejs:rune_winter_double',
+		'kubejs:rune_spring_double',
+		'kubejs:rune_2tire_pile',
+		'kubejs:rune_2mound_pile',
+		'kubejs:rune_envy_double',
+		'kubejs:rune_gluttony_double',
+		'kubejs:rune_greed_double',
+		'kubejs:rune_lust_double',
+		'kubejs:rune_pride_double',
+		'kubejs:rune_sloth_double',
+		'kubejs:rune_wrath_double',
+		'kubejs:rune_3tire_pile',
+		'kubejs:rune_3mound_pile',
+		'kubejs:rune_mountain',
+		'kubejs:rune_grind',
+		'kubejs:rune_grind_double',
+		'kubejs:block_of_flam'
 	])
 })

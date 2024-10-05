@@ -1,0 +1,10 @@
+StartupEvents.registry("block", event => {
+    event.create("block_of_flam")
+    .displayName("Block of flam")
+    .textureAll('kubejs:block/block_of_flam')
+    .glassSoundType()
+    .fullBlock(true)
+    .opaque(true)
+    .tagBlock('minecraft:mineable/pickaxe')
+    .requiresTool(true)
+})

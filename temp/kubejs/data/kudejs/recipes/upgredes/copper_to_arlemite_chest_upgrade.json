@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aca",
+    "cbc",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "divinerpg:arlemite_ingot"
+    },
+    "c": {
+      "item": "minecraft:glass"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "ironchest:copper_to_iron_chest_upgrade",
+    "count": 1
+  }
+}

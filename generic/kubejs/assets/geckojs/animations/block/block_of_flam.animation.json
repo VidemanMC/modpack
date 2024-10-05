@@ -1,0 +1,112 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idel": {
+			"loop": true,
+			"animation_length": 4,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"2.25": {
+							"vector": [22.5, 0, -22.5],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0.72, -0.92, -0.58],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [-1, 1, -2],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [0.72, -0.92, -0.58],
+							"easing": "linear"
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1.05, 1.1, 1],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [1.05, 1.1, 1],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"2.125": {
+							"vector": [0, -22.5, 22.5],
+							"easing": "easeInOutQuart"
+						},
+						"4.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [-0.62, 0.92, 0.58],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [1, -1, 2],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [-0.62, 0.92, 0.58],
+							"easing": "linear"
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1.05, 1.1, 1],
+							"easing": "linear"
+						},
+						"2.0": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [1.05, 1.1, 1],
+							"easing": "linear"
+						}
+					}
+				},
+				"bone3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [-360, 360, 360],
+							"easing": "easeOutQuart"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

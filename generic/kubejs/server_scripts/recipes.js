@@ -218,6 +218,9 @@ ServerEvents.recipes(event => {
 
 /* remowes */
 
-/*ServerEvents.recipes(event => {
-  event.remove({id: "botania:pure_daisy/livingrock" })
- })*/
+ServerEvents.recipes(event => {
+  event.remove({id: "botania:terra_plate/terrasteel_ingot" })
+  event.recipes.botania.terra_plate("botania:terrasteel_ingot", ["botania:mana_pearl", "botania:mana_diamond", "botania:manasteel_ingot", 'kubejs:rune_grind'], 500000)
+  event.remove({id: "mythicbotany:wiher_aconite_petal_apothecary" })
+  event.recipes.botania.petal_apothecary("mythicbotany:wither_aconite", ["#botania:seed_apothecary_reagent", "minecraft:wither_rose", "botania:rune_pride", "#botania:petals/black", "#botania:petals/black", 'kubejs:rune_grind'])
+ })

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "divinerpg:arlemite_ingot"
+    },
+    "b": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "ironchest:iron_chest",
+    "count": 1
+  }
+}
