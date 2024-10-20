@@ -1,6 +1,90 @@
 type = user_variables
 
 variable {
+  name = gsc_xr_left_arm
+  value = -172.26
+  reset_on_launch = false
+}
+
+variable {
+  name = selected_setings_skins
+  value = press_me.png
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_zr_right_leg
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_zr_left_arm
+  value = -8.71
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_yr_body
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_zr_head
+  value = 246.01
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_yr_left_leg
+  value = 16.45
+  reset_on_launch = false
+}
+
+variable {
+  name = custom_name
+  value = collname
+  reset_on_launch = false
+}
+
+variable {
+  name = minecraft_title
+  value = minecraft_title
+  reset_on_launch = false
+}
+
+variable {
+  name = right_leg
+  value = 56.71
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_xr_head
+  value = -328.0
+  reset_on_launch = false
+}
+
+variable {
+  name = empty_tex
+  value = empty_tex.png
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_xr_body
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_zr_right_arm
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
   name = selected_name
   value = wwelol08__
   reset_on_launch = false
@@ -13,62 +97,38 @@ variable {
 }
 
 variable {
-  name = selected_quit
-  value = selested_buttons/selected_empty.png
+  name = gsc_yr_left_arm
+  value = -42.58
   reset_on_launch = false
 }
 
 variable {
-  name = left_leg
-  value = -28
+  name = gsc_yr_right_arm
+  value = 16.45
   reset_on_launch = false
 }
 
 variable {
-  name = selected_setings_skins
-  value = press_me.png
+  name = gsc_xr_right_leg
+  value = 16.45
   reset_on_launch = false
 }
 
 variable {
-  name = left_hand
-  value = 28
+  name = gsc_yr_head
+  value = 115.23
   reset_on_launch = false
 }
 
 variable {
-  name = player_type
-  value = 1.0
+  name = gsc_xr_left_leg
+  value = 90.97
   reset_on_launch = false
 }
 
 variable {
-  name = 0
-  value = 
-  reset_on_launch = false
-}
-
-variable {
-  name = custom_name
-  value = collname
-  reset_on_launch = false
-}
-
-variable {
-  name = right_leg
-  value = 28
-  reset_on_launch = false
-}
-
-variable {
-  name = right_hand
-  value = -28
-  reset_on_launch = false
-}
-
-variable {
-  name = selected_s_mult
-  value = selested_buttons/selected_s_mult.png
+  name = s_quit
+  value = wwelol08__
   reset_on_launch = false
 }
 
@@ -79,14 +139,20 @@ variable {
 }
 
 variable {
-  name = selected_mods
-  value = selested_buttons/selected_empty.png
+  name = gsc_xr_right_arm
+  value = -190.65
   reset_on_launch = false
 }
 
 variable {
-  name = user_variables
-  value = whitelight
+  name = gsc_yr_right_leg
+  value = 2.9
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_zr_left_leg
+  value = 15.48
   reset_on_launch = false
 }
 

@@ -219,6 +219,7 @@ ServerEvents.recipes(event => {
 /* remowes */
 
 ServerEvents.recipes(event => {
+  event.remove({id: "botania:cosmetic_witch_pin" })
   event.remove({id: "botania:terra_plate/terrasteel_ingot" })
   event.recipes.botania.terra_plate("botania:terrasteel_ingot", ["botania:mana_pearl", "botania:mana_diamond", "botania:manasteel_ingot", 'kubejs:rune_grind'], 500000)
   event.remove({id: "mythicbotany:wiher_aconite_petal_apothecary" })

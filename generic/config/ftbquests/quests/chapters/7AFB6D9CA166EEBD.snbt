@@ -1,0 +1,436 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "gear"
+	filename: "7AFB6D9CA166EEBD"
+	group: "2603C878F31059EC"
+	id: "7AFB6D9CA166EEBD"
+	images: [
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 13.5d
+			y: 4.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 14.5d
+			y: 4.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 13.5d
+			y: 5.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 14.5d
+			y: 5.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 13.5d
+			y: 6.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 14.5d
+			y: 6.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 15.5d
+			y: 5.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 15.5d
+			y: 4.5d
+		}
+		{
+			height: 1.17d
+			image: "divinerpg:block/arcana_portal"
+			rotation: 0.0d
+			width: 1.17d
+			x: 15.5d
+			y: 6.5d
+		}
+		{
+			height: 1.2d
+			image: "improvableskills:textures/abilities/template_hovered.png"
+			rotation: 0.0d
+			width: 1.2d
+			x: 14.5d
+			y: 5.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_bottom"
+			rotation: 0.0d
+			width: 1.17d
+			x: 12.5d
+			y: 3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 12.5d
+			y: 6.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 90.0d
+			width: 1.17d
+			x: 13.5d
+			y: 3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 16.5d
+			y: 4.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 16.5d
+			y: 5.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 0.0d
+			width: 1.17d
+			x: 16.5d
+			y: 6.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 90.0d
+			width: 1.17d
+			x: 14.5d
+			y: 3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 90.0d
+			width: 1.17d
+			x: 15.5d
+			y: 3.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 90.0d
+			width: 1.17d
+			x: 13.5d
+			y: 7.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 90.0d
+			width: 1.17d
+			x: 14.5d
+			y: 7.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_side"
+			rotation: 90.0d
+			width: 1.17d
+			x: 15.5d
+			y: 7.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_bottom"
+			rotation: 0.0d
+			width: 1.17d
+			x: 12.5d
+			y: 7.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_bottom"
+			rotation: 0.0d
+			width: 1.17d
+			x: 16.5d
+			y: 7.5d
+		}
+		{
+			height: 1.17d
+			image: "minecraft:block/reinforced_deepslate_bottom"
+			rotation: 0.0d
+			width: 1.17d
+			x: 16.5d
+			y: 3.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["здесь показыны все внутре игровые спавочники, если кокого-то не хватает прошу написать об этом."]
+			id: "48C08A43D01EE6A4"
+			rewards: [{
+				id: "145475D58841F24E"
+				item: "ftbquests:book"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70441415E577C0C2"
+				title: "Прочитал"
+				type: "checkmark"
+			}]
+			title: "FTB квесты"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Засаленый справочник Ars Nouveau."]
+			id: "3B760B6B6405EE43"
+			tasks: [{
+				id: "4C66F4D14B19F94E"
+				item: "ars_nouveau:worn_notebook"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3B760B6B6405EE43"]
+			description: ["Все книги заклинаний содержит в себе засаленый спавочник."]
+			hide: true
+			id: "16728419D7636122"
+			tasks: [{
+				id: "3F50737179885A18"
+				item: "ars_nouveau:novice_spell_book"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Лексикон ботании расказывет о ботании."]
+			id: "6BC446B6A660C3C2"
+			tasks: [{
+				id: "7C2C667D975FD349"
+				item: "botania:lexicon"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6BC446B6A660C3C2"]
+			description: ["Лексикон можно улудшить, тогда он будет содержать всю информацию из ботании."]
+			hide: true
+			id: "3B7E74CCBB6ED7A4"
+			tasks: [{
+				id: "5BAABBDBD64A8C35"
+				item: {
+					Count: 1
+					id: "botania:lexicon"
+					tag: {
+						"botania:elven_unlock": 1b
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Хроника теней - гайд по Apotheosis."]
+			id: "2C4A7652F2133B9B"
+			tasks: [{
+				id: "6842CD39A64A50CA"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "apotheosis:apoth_chronicle"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Create не имеет спавочника но укажнодо предмета есть описание или демка."]
+			id: "304201A57A86E8BE"
+			tasks: [{
+				id: "3EA1D280380CAEC5"
+				item: "create:wrench"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Origins of Darkness покажет все тайны EvilCraft."]
+			id: "040F652D2C14CF5B"
+			tasks: [{
+				id: "40487533AFF3ABF9"
+				item: "evilcraft:origins_of_darkness"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Герметическая литература - справочник Theurgy."]
+			id: "7237AC8E79E73A5A"
+			tasks: [{
+				id: "063855738663A58D"
+				item: {
+					Count: 1
+					id: "modonomicon:modonomicon"
+					tag: {
+						"modonomicon:book_id": "theurgy:the_hermetica"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["48C08A43D01EE6A4"]
+			description: ["Словарь душ - книга об Occultism."]
+			id: "30F4E1E87C9EED31"
+			tasks: [{
+				id: "0D3835A9F40BBC7E"
+				item: {
+					Count: 1
+					id: "occultism:dictionary_of_spirits"
+					tag: {
+						"modonomicon:book_id": "occultism:dictionary_of_spirits"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			description: ["Книга Bonsai Trees 3, по идее должна рассказывать о моде, но вместо этого содержит информацию реальных аналогов ванильных деревьев."]
+			id: "79BB2C7289117B3C"
+			tasks: [{
+				id: "7A3C472BA57EA842"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "bonsaitrees3:book_of_trees"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			description: ["Pagan Guide распространяет знания о Pagan's blessing."]
+			id: "7D04125CA743C031"
+			tasks: [{
+				id: "75243BBEF8098316"
+				item: {
+					Count: 1
+					id: "paganbless:pagan_guide"
+					tag: {
+						"modonomicon:book_id": "paganbless:pagan_guide"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			description: [
+				"ʖ‖ ᔑᓵᓵᒷi!勹￤リ┫ 勹〒￤ᓭ ᑑ⚍ᒷᓭ勹, ‖フ⚍ ᔑ┫∷ᒷᒷ 勹フ 勹〒ᒷ ∷⚍ꖎᒷᓭ フ⎓ 勹〒ᒷ ᓵ⚍ꖎ勹. &l&n&c‖フ⚍ ᒲ⚍ᓭ勹 ⎓フꖎꖎフ∴ ￤勹&r&r&r"
+				""
+				"&l&o&cWe repeat, you will have to follow the agreement.&r&r&r"
+			]
+			id: "1AA7747F16B49F5F"
+			rewards: [{
+				id: "3B6CD1729E53A568"
+				item: {
+					Count: 1
+					id: "botania:cosmetic_witch_pin"
+					tag: {
+						display: {
+							Name: "{\"text\":\"ᓵ⚍ꖎ勹￤ᓭ勹 ᒲᔑ∷ꖌ\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "477D62DF65256BD2"
+				title: "ᓵ⚍ꖎ勹"
+				type: "checkmark"
+			}]
+			x: 14.5d
+			y: 5.5d
+		}
+	]
+	title: "Справочники"
+}
