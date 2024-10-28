@@ -24,6 +24,5 @@ update-exclude:
 - screenshots/
 - shaderpacks/
 - xaero/
-- ./
 - XaeroWaypoints_BACKUP*/
 - .vscode/
