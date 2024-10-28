@@ -1,0 +1,5 @@
+update-exclude:
+- config/sodium-settings.json
+- options.txt
+- assets/
+- .cache/
