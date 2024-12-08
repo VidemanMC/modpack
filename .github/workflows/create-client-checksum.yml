@@ -6,6 +6,7 @@ on:
   pull_request:
     types: closed
     paths: ["client/**", "generic/**"]
+  workflow_dispatch:
 
 permissions: write-all
 
