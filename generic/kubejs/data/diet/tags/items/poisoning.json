@@ -1,0 +1,23 @@
+{
+    "replace": false,
+	"values": [
+	  "tombstone:lollipop",
+	  "vinery:rotten_cherry",
+	  "divinerpg:dream_sweets",
+	  "divinerpg:dream_sours",
+	  "cataclysm:blessed_amethyst_crab_meat",
+	  "divinerpg:magic_meat",
+	  "divinerpg:enriched_magic_meat",
+	  "divinerpg:sky_flower",
+	  "divinerpg:purple_glowbone",
+	  "divinerpg:pink_glowbone",
+	  "divinerpg:moonbulb",
+	  "cataclysm:amethyst_crab_meat",
+	  "evilcraft:flesh_humanoid",
+	  "evilcraft:flesh_werewolf",
+	  "vampirism:weak_human_heart",
+	  "kubejs:rotten_skin",
+	  "minecraft:poisonous_potato",
+	  "divinerpg:forbidden_fruit"
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ars_nouveau:item/splash_flask_cannon"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ 0, -2, -4.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ 0, -2, -4.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        }
+    }
+}

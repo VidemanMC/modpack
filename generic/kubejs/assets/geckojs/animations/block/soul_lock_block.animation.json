@@ -1,0 +1,62 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idel": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 3.5833,
+			"bones": {
+				"fire": {
+					"position": {
+						"vector": [0, "math.sin(query.anim_time*100)", 0],
+						"easing": "linear"
+					}
+				},
+				"chane1": {
+					"rotation": {
+						"vector": [-22.5, 0, 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [0, "math.sin(query.anim_time*100)/4", 0],
+						"easing": "linear"
+					}
+				},
+				"chane2": {
+					"rotation": {
+						"vector": [22.5, 0, 0],
+						"easing": "linear"
+					},
+					"position": {
+						"vector": [0, "(math.sin(query.anim_time*100)/2)+1", 0],
+						"easing": "linear"
+					}
+				},
+				"bonus_layer2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"3.5833": {
+							"vector": [0, 360, 0],
+							"easing": "linear"
+						}
+					}
+				},
+				"bonus_layer": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0],
+							"easing": "linear"
+						},
+						"3.5833": {
+							"vector": [0, 180, 0],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

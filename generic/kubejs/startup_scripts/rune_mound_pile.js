@@ -1,6 +1,6 @@
 StartupEvents.registry("block", event => {
     event.create("rune_1mound_pile")
-    .displayName("rune mound 1 pile")
+    .displayName("Насыпь рун 1 тира")
     .model("kubejs:rune_1mound_pile")
     .box(-1, 0, 9, 5, 8, 15, true)
     .box(-1, 0, 3, 5, 6, 9, true)
@@ -18,7 +18,7 @@ StartupEvents.registry("block", event => {
     .fullBlock(false)
 
     event.create("rune_2mound_pile")
-    .displayName("rune mound 2 pile")
+    .displayName("Насыпь рун 2 тира")
     .model("kubejs:rune_2mound_pile")
     .box(-1, 0, 9, 5, 8, 15, true)
     .box(-1, 0, 3, 5, 6, 9, true)
@@ -36,8 +36,8 @@ StartupEvents.registry("block", event => {
     .fullBlock(false)
 
     event.create("rune_3mound_pile")
-    .displayName("rune mound 3 pile")
-    .model("kubejs:rune_1mound_pile")
+    .displayName("Насыпь рун 3 тира")
+    .model("kubejs:rune_3mound_pile")
     .box(-1, 0, 9, 5, 8, 15, true)
     .box(-1, 0, 3, 5, 6, 9, true)
     .box(5, 0, 0, 11, 10, 6, true)

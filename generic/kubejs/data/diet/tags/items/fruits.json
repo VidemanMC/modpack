@@ -1,0 +1,32 @@
+{
+    "replace": false,
+	"values": [
+	  "ars_nouveau:mendosteen_pod",
+	  "ars_nouveau:bastion_pod",
+	  "ars_nouveau:frostaya_pod",
+	  "ars_nouveau:bombegranate_pod",
+	  "deeperdarker:bloom_berries",
+	  "obscure_api:vial_of_knowledge",
+	  "ars_nouveau:sourceberry_bush",
+	  "minecolonies:chorus_bread",
+	  "paganbless:winter_berries",
+	  "divinerpg:hitchak",
+	  "divinerpg:pinfly",
+	  "divinerpg:winterberry",
+	  "vinery:white_grape",
+	  "vinery:red_grape",
+	  "vinery:savanna_grapes_red",
+	  "vinery:savanna_grapes_white",
+	  "vinery:taiga_grapes_red",
+	  "vinery:taiga_grapes_white",
+	  "vinery:jungle_grapes_red",
+	  "vinery:jungle_grapes_white",
+	  "vinery:cherry",
+	  "divinerpg:forbidden_fruit",
+	  "divinerpg:dream_melon",
+	  "divinerpg:fruit_cake",
+	  "mythicbotany:dream_cherry",
+	  "minecolonies:muffin",
+	  "divinerpg:moonbulb"
+	]
+}

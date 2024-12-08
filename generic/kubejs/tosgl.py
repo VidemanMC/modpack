@@ -1,4 +1,8 @@
-text:list = list(input())
+#!/usr/bin/python3
+
+import sys
+
+text:list = list(sys.argv[1])
 end = "//br"
 text.append(end)
 abc = {"a":"ᔑ", "b":"ʖ", "c":"ᓵ", "d":"↸", "e":"ᒷ", "f":"⎓",
