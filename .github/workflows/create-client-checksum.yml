@@ -28,9 +28,9 @@ jobs:
         run: |
           git config --global user.email "no-reply@github.com"
           git config --global user.name "Elon Musk"
-          git add hash.txt
+          git add -f hash.txt
           git commit -m checksum-updated
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push -f
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
