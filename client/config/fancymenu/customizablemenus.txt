@@ -30,3 +30,15 @@ net.minecraft.client.gui.screens.LevelLoadingScreen {
 net.minecraft.client.gui.screens.ReceivingLevelScreen {
 }
 
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+top.theillusivec4.curios.client.gui.CuriosScreenV2 {
+}
+
+de.teamlapen.vampirism.client.gui.screens.skills.SkillsScreen {
+}
+
+lain.mods.cos.impl.client.gui.GuiCosArmorInventory {
+}
+

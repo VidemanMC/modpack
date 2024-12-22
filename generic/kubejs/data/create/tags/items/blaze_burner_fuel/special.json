@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "create_dd:seething_ablaze_powder",
+    "create_dd:seething_ablaze_rod",
+    "create:blaze_cake"
+  ]
+}

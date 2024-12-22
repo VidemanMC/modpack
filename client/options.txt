@@ -42,11 +42,10 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/[1.3] Enhanced Boss Bars.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip","Moonlight Mods Dynamic Assets","vampirism2dtextures","file/BotaniaRevamped_1.1.0.zip"]
-incompatibleResourcePacks:["file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip","file/BotaniaRevamped_1.1.0.zip"]
-lastServer:
+resourcePacks:["vanilla","mod_resources","file/[1.3] Enhanced Boss Bars.zip","file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip","Moonlight Mods Dynamic Assets","vampirism2dtextures","file/BotaniaRevamped_1.1.0.zip","file/VanillaTweaks small fixes.zip","file/VanillaTweaks_true_darkness.zip"]
+incompatibleResourcePacks:["file/MandalasGUI+Modded_Dakmode_v4.6.zip","file/Pixelated_v1.3.2_EnhancedVisuals(nox_cgt).zip","file/BotaniaRevamped_1.1.0.zip","file/VanillaTweaks small fixes.zip","file/VanillaTweaks_true_darkness.zip"]
+lastServer:mods.videmanmc.ru
 lang:ru_ru
-soundDevice:"HDA NVidia Digital Stereo (HDMI)"
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0

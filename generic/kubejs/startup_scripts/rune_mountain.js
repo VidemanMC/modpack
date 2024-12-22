@@ -1,6 +1,6 @@
 StartupEvents.registry("block", event => {
     event.create("rune_mountain")
-    .displayName("rune mountain")
+    .displayName("Гора рун")
     .model("kubejs:rune_mountain")
     .box(-4, 0, 7, 0, 4, 11, true)
     .box(-4, 0, 11, 0, 2, 15, true)

@@ -1,0 +1,10 @@
+{
+    "music.community_cultural_cult": {
+        "sounds": [
+            {
+                "name": "kubejs:community_cultural_cult",
+                "stream": true
+            }
+        ]
+    }
+}
