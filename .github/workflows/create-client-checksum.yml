@@ -19,11 +19,8 @@ jobs:
       
       - name: Genereate checksum
         run: |
-          cd client
-          find . -type f -exec md5sum {} + | awk -F '  ' '{print substr($2, 3)":"$1}' > ../hash.txt
-
-          cd ../generic
-          find . -type f -exec md5sum {} + | awk -F '  ' '{print substr($2, 3)":"$1}' >> ../hash.txt
+          find client/ -type f -exec md5sum {} + | awk -F '  ' '{print $2":"$1}' > hash.txt
+          find generic/ -type f -exec md5sum {} + | awk -F '  ' '{print $2":"$1}' >> hash.txt
       - name: Commit changes
         run: |
           git config --global user.email "no-reply@github.com"
