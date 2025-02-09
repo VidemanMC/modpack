@@ -1,0 +1,56 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = true
+  last_edited_time = 1734541026523
+  is_enabled = false
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:2cac51d4-cc89-411d-93c1-aa3f000737de-1736454531526] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/sun_overlay.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 9844d9ce-5538-4ab9-a5ab-47f690a2064c-1734539283041
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  advanced_posx = 0
+  advanced_posy = 0
+  advanced_width = {"placeholder":"guiwidth"}
+  advanced_height = {"placeholder":"guiheight"}
+  x = -230
+  y = -141
+  width = 50
+  height = 50
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 98ded3c8-b87d-4c77-bf2b-8dc7c35a6a34-1734539283041
+  [loading_requirement_container_meta:98ded3c8-b87d-4c77-bf2b-8dc7c35a6a34-1734539283041] = [groups:][instances:]
+}
+

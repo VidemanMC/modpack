@@ -1,0 +1,95 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = easteregg.dark_room
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1736454531510
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:b04f1993-4d8c-45f6-8e33-12b5dc88405d-1736454507265] = [groups:][instances:]
+}
+
+menu_background {
+  panorama_name = altar_in_sun
+  background_type = panorama
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  is_async = false
+  tick_delay = 0
+  tick_mode = normal
+  ticker_element_executable_block_identifier = 0469f8db-7d0a-48f4-adba-d07d8e50183f-1734637602113
+  [executable_action_instance:7410e50f-1f1f-4fbe-bcf9-91a217a0cd27-1734637612073][action_type:enable_layout] = easteregg.dark_room
+  [executable_block:9ab1598d-1a13-4f89-89f2-b93ddf3a570a-1734637667068][type:if] = [executables:7410e50f-1f1f-4fbe-bcf9-91a217a0cd27-1734637612073;][appended:5028723a-1db1-4a4b-b57b-c099c7eb4f96-1734637675919]
+  [executable_action_instance:48e506cc-4709-4d08-8789-a40b80faae94-1734637645880][action_type:disable_layout] = easteregg.dark_room
+  [executable_block:5028723a-1db1-4a4b-b57b-c099c7eb4f96-1734637675919][type:else] = [executables:48e506cc-4709-4d08-8789-a40b80faae94-1734637645880;]
+  [if_executable_block_body:9ab1598d-1a13-4f89-89f2-b93ddf3a570a-1734637667068] = dca9a1df-2ba9-43bd-b3f2-d0b43bd901be-1734637652844
+  [loading_requirement_container_meta:dca9a1df-2ba9-43bd-b3f2-d0b43bd901be-1734637652844] = [groups:][instances:3aa56b33-e355-47bf-a71d-de44ba39cb07-1734637653928;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3aa56b33-e355-47bf-a71d-de44ba39cb07-1734637653928] = is_sun_active:0
+  [executable_block:0469f8db-7d0a-48f4-adba-d07d8e50183f-1734637602113][type:generic] = [executables:9ab1598d-1a13-4f89-89f2-b93ddf3a570a-1734637667068;]
+  element_type = fancymenu_customization_item_ticker
+  instance_identifier = 459a824c-a382-46bd-aea3-63785e95754e-1734637602113
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -35
+  y = -35
+  width = 70
+  height = 70
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c4a9af8b-7eba-4749-9be2-3f87d0f9af44-1734637602113
+  [loading_requirement_container_meta:c4a9af8b-7eba-4749-9be2-3f87d0f9af44-1734637602113] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = 79e0fa5f-627b-4d2c-8127-027b8832546c-1734638119230
+  [executable_action_instance:09f0b22c-61e5-40cc-a789-e508613a6d6d-1734638184526][action_type:closegui] = 
+  [executable_block:79e0fa5f-627b-4d2c-8127-027b8832546c-1734638119230][type:generic] = [executables:09f0b22c-61e5-40cc-a789-e508613a6d6d-1734638184526;]
+  backgroundnormal = [source:local]/config/fancymenu/assets/empty_tex.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/empty_tex.png
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = &nУйти
+  navigatable = true
+  element_type = custom_button
+  instance_identifier = bf8b35eb-6f68-428c-9a38-b6ed0a47fdba-1734638119230
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -50
+  y = -20
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 43cff053-f22e-4e4a-810e-f097a083caf5-1734638119230
+  [loading_requirement_container_meta:43cff053-f22e-4e4a-810e-f097a083caf5-1734638119230] = [groups:][instances:]
+}
+

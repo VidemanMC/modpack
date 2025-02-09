@@ -1,0 +1,70 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = settings.skin.help
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1729023267124
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:d559287c-2720-4b39-b4a6-11c38be63b84-1729023253976] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  interactable = true
+  source = Это редактор игрока в интерфейсах.%n%Здесь можно изменить модельку и позу под ваше желание!%n%Если вы захотите поставить стандартную позу,%n%нажмите на "Установить стандартные значения"%n%%n%WhiteLight и wwelol08__ - это предустановленые скины,%n%но припомощи "Custom" вы можите добавить свои.%n%%n%Как использовать "Custom":%n%1. В текстовое поле нужно указать имя%n%   (оно будет отображатся над игроком).%n%2. Скин нужно кинуть по пути:%n%   "./config/fancymenu/assets/skins"%n%   (его имя должно совпадать с именем в текстовом поле)%n%3. Не забудте перезагрузить экран нажав на "Custom"
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 28c405e8-472b-4235-97de-7c9de3d240d6-1729022273874
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-left
+  x = 7
+  y = -87
+  width = 312
+  height = 174
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 34c88701-10e4-43f0-98c3-cdc37b283e2b-1729022273874
+  [loading_requirement_container_meta:34c88701-10e4-43f0-98c3-cdc37b283e2b-1729022273874] = [groups:][instances:]
+}
+

@@ -411,3 +411,7 @@
   event.remove({id: "botania:cosmetic_witch_pin"})
  })
  
+ ServerEvents.recipes(event => {
+  event.shapeless(grid.item, ["enchanted_book", "writable_book"])
+    .modifyResult((grid, item) => grid.find("enchanted_book"))
+})

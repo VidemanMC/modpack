@@ -1,8 +1,20 @@
 type = user_variables
 
 variable {
+  name = is_gsc_is_open
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = is_sun_active
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
   name = gsc_xr_left_arm
-  value = -172.26
+  value = 28
   reset_on_launch = false
 }
 
@@ -20,7 +32,7 @@ variable {
 
 variable {
   name = gsc_zr_left_arm
-  value = -8.71
+  value = 0
   reset_on_launch = false
 }
 
@@ -37,8 +49,20 @@ variable {
 }
 
 variable {
+  name = mainmanu_panarama
+  value = 
+  reset_on_launch = true
+}
+
+variable {
+  name = sun_x
+  value = 
+  reset_on_launch = false
+}
+
+variable {
   name = gsc_yr_left_leg
-  value = 16.45
+  value = 0
   reset_on_launch = false
 }
 
@@ -51,6 +75,12 @@ variable {
 variable {
   name = minecraft_title
   value = minecraft_title
+  reset_on_launch = false
+}
+
+variable {
+  name = background_path
+  value = videman_projct/q_day
   reset_on_launch = false
 }
 
@@ -79,6 +109,12 @@ variable {
 }
 
 variable {
+  name = use_panarama_mod
+  value = checkbox/checkbox
+  reset_on_launch = false
+}
+
+variable {
   name = gsc_zr_right_arm
   value = 0
   reset_on_launch = false
@@ -97,20 +133,26 @@ variable {
 }
 
 variable {
+  name = vibeman_logo_path
+  value = videman_projct/render_normal
+  reset_on_launch = false
+}
+
+variable {
   name = gsc_yr_left_arm
-  value = -42.58
+  value = 0
   reset_on_launch = false
 }
 
 variable {
   name = gsc_yr_right_arm
-  value = 16.45
+  value = 0
   reset_on_launch = false
 }
 
 variable {
   name = gsc_xr_right_leg
-  value = 16.45
+  value = 28
   reset_on_launch = false
 }
 
@@ -121,8 +163,20 @@ variable {
 }
 
 variable {
+  name = 0
+  value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = 1
+  value = 
+  reset_on_launch = false
+}
+
+variable {
   name = gsc_xr_left_leg
-  value = 90.97
+  value = -28
   reset_on_launch = false
 }
 
@@ -140,19 +194,19 @@ variable {
 
 variable {
   name = gsc_xr_right_arm
-  value = -190.65
+  value = -28
   reset_on_launch = false
 }
 
 variable {
   name = gsc_yr_right_leg
-  value = 2.9
+  value = 0
   reset_on_launch = false
 }
 
 variable {
   name = gsc_zr_left_leg
-  value = 15.48
+  value = 0
   reset_on_launch = false
 }
 

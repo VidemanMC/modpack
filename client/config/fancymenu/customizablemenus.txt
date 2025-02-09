@@ -42,3 +42,12 @@ de.teamlapen.vampirism.client.gui.screens.skills.SkillsScreen {
 lain.mods.cos.impl.client.gui.GuiCosArmorInventory {
 }
 
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+com.illusivesoulworks.diet.client.screen.DietScreen {
+}
+
+net.minecraftforge.client.gui.ModListScreen {
+}
+

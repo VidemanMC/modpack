@@ -1,0 +1,70 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = settings.skins
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1734538797451
+  is_enabled = false
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:97d3c5a7-b4e0-4494-b7df-0238f38b7cc0-1736454531531] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  interactable = true
+  source = &k&e|&r &l&eСолнце &6активно! &k&e|
+  source_mode = direct
+  shadow = true
+  scale = 2.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = a6c29cb1-d8ed-47c9-a7e8-5af2b25a4e49-1734538460833
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-centered
+  x = -99
+  y = 42
+  width = 198
+  height = 29
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 061be9f9-8774-470e-a39a-5188b8fdba94-1734538460833
+  [loading_requirement_container_meta:061be9f9-8774-470e-a39a-5188b8fdba94-1734538460833] = [groups:][instances:]
+}
+

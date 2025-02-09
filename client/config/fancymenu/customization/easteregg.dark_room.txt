@@ -1,0 +1,95 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = easteregg.dark_room
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1734638212524
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:c1a4f775-69db-4af1-84c9-44c6a0d687da-1736454531519] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  shape = rectangle
+  color = #000000FF
+  element_type = shape
+  instance_identifier = fe4ba368-025d-453b-864a-b55cc8c9464f-1734626127128
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  advanced_posx = 0
+  advanced_posy = 0
+  advanced_width = {"placeholder":"guiwidth"}
+  advanced_height = {"placeholder":"guiheight"}
+  x = -82
+  y = -150
+  width = 50
+  height = 50
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = a55e9a9f-6969-42ad-9101-0acb81ca5452-1734626127128
+  [loading_requirement_container_meta:a55e9a9f-6969-42ad-9101-0acb81ca5452-1734626127128] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = &7Похоже &7здесь &7слишком &7&lтемно&r&7, &7чтобы &7что &7разглядеть
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 0adbbc67-792e-4f2b-b0de-62f7f6192fc0-1734626332301
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -142
+  y = -12
+  width = 285
+  height = 24
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 2938c768-fd38-4eca-9018-42caf0b62180-1734626332301
+  [loading_requirement_container_meta:2938c768-fd38-4eca-9018-42caf0b62180-1734626332301] = [groups:][instances:]
+}
+

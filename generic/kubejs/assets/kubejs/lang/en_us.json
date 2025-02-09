@@ -1,5 +1,8 @@
 {
     "item.kubejs.music_disc_community_cultural_cult.desc": "Сommunity Сultural Сult -имя автора когда будет",
     "item.kubejs.music_disc_community_cultural_cult": "CCC dick",
-    "groups.diet.poisoning.name": "Poisoning"
+    "groups.diet.poisoning.name": "Poisoning",
+    "item.kubejs.suprise": "Неизвесный предмет",
+    "item.kubejs.suprise.desc": "не открывется",
+    "item.kubejs.umbrella_videman": "Umbrella named Videman"
 }

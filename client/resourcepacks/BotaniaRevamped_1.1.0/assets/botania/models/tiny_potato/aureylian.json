@@ -1,6 +1,0 @@
-{
-  "parent": "botania:tiny_potato/default",
-  "textures": {
-    "all": "botania:block/tiny_potato/aureylian"
-  }
-}
