@@ -1,43 +1,48 @@
-/*ItemEvents.firstRightClicked(event => {
-    if(event.item.id == "kubejs:soul_lock"){
-        let newCow = event.player.block.createEntity("minecart:cow")
-        event.server.tell("\"got it\"")
-        newCow.spawn()
-        event.item.shrink(1)
+
+ItemEvents.firstRightClicked('kubejs:trident_blesing', e =>{
+    if(player.persistentData.getBoolean("trident_blesing")){
+        player.persistentData.putBoolean("trident_blesing", false);
+        e.server.runCommand("/tell @a F");
+    } else {
+        player.persistentData.putBoolean("trident_blesing", true);
+        e.server.runCommand("/tell @a T");
     }
-})*/
+})
 
-/*ItemEvents.firstRightClicked(event => {
-    if(event.item.id == "kubejs:soul_lock"){
-        let newItem = event.player.getOffHandItem
-        newItem.enchantStack("tombstone:soulbound", 1)
-        event.server.tell("end")
-        event.server.tell(newItem)
-        event.item.shrink(1)
-        event.entity.setOffHandItem(newItem)
-
-    }
-}) old */
-
-/* ItemEvents.firstRightClicked("kubejs:soul_lock", event => {
-    const newItem = event.player.getOffHandItem.copy
-    //requires: tombstone
-    newItem.enchant("tombstone:soulbound", 1)
-
-    event.server.tell(newItem)
-    event.item.shrink(1)
-    event.player.setOffHandItem(newItem)
-    event.server.tell("end")
-})*/
-
-EntityEvents.spawned('minecraft:trident', e => e.entity.owner.startRiding(e.entity))
-
-/*event.server.tell("\"got it\"")
-event.server.tell(String.toString(event.player.getItemInHand))
-event.server.tell(event.item)
-event.item.shrink(1)*/
-
+// soul_lock
 ItemEvents.firstRightClicked("kubejs:soul_lock", e => {
-    e.item.enchant("minecraft:fire_aspect", 1)
-    e.server.tell("end")
+    // slot -106 is second hand
+    if (e.entity.getItemBySlot(-106) == Item.of("kubejs:soul_lock")){
+        e.item.shrink(1);
+        e.item.enchant("tombstone:soulbound", 1)
+        //e.entity.runCommand("/enchant @s tombstone:soulbound 1");
+    }
+    //e.item.enchant("tombstone:soulbound", 1)
+    e.server.tell("end");
+})
+
+// Lunar shards
+ItemEvents.firstRightClicked("kubejs:lunar_shards_default", e=> {
+    e.item.shrink(1);
+    e.server.runCommand("/enhancedcelestials setLunarEvent enhancedcelestials:default");
+})
+
+ItemEvents.firstRightClicked("kubejs:lunar_shards_harvest", e=> {
+    e.item.shrink(1);
+    e.server.runCommand("/enhancedcelestials setLunarEvent enhancedcelestials:harvest_moon");
+})
+
+ItemEvents.firstRightClicked("kubejs:lunar_shards_blue", e=> {
+    e.item.shrink(1);
+    e.server.runCommand("/enhancedcelestials setLunarEvent enhancedcelestials:blue_moon");
+})
+
+ItemEvents.firstRightClicked("kubejs:lunar_shards_blood", e=> {
+    e.item.shrink(1);;
+    e.server.runCommand("/enhancedcelestials setLunarEvent enhancedcelestials:blood_moon");
+})
+
+ItemEvents.firstRightClicked("kubejs:lunar_stump", e=> {
+    e.item.shrink(1);
+    e.server.runCommand("/enhancedcelestials setLunarEvent #enhancedcelestials:super_moon");
 })

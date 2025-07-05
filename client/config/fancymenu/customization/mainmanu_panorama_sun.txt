@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1734627915763
+  last_edited_time = 1748683190083
   is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_whitelist = title_screen;
-  [loading_requirement_container_meta:d71aba7a-55fe-479f-8f96-255014b5989c-1736454531531] = [groups:][instances:]
+  [loading_requirement_container_meta:24d43b3a-d0b6-4687-937e-e912cf9830c4-1749039682527] = [groups:][instances:]
 }
 
 menu_background {
@@ -30,5 +30,10 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
 }
 

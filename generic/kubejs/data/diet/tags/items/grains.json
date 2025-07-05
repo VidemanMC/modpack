@@ -2,23 +2,6 @@
     "replace": false,
 	"values": [
 	  "vampirism:garlic_bread",
-	  "minecolonies:cabochis",
-	  "minecolonies:chorus_bread",
-	  "minecolonies:durum",
-	  "minecolonies:golden_bread",
-	  "minecolonies:sugary_bread",
-	  "minecolonies:milky_bread",
-	  "minecolonies:manchet_bread",
-	  "minecolonies:lembas_scone",
-	  "minecolonies:hand_pie",
-	  "minecolonies:flatbread",
-	  "minecolonies:stuffed_pita",
-	  "minecolonies:stew_trencher",
-	  "minecolonies:pottage",
-	  "minecolonies:pasta_tomato",
-	  "minecolonies:pasta_plain",
-	  "minecolonies:eggplant_dolma",
-	  "minecolonies:muffin",
 	  "netherexp:nether_pizza_slice"
 	]
 }

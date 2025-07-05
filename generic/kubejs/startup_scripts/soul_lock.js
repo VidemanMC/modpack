@@ -3,20 +3,6 @@ StartupEvents.registry('item', event => {
     .displayName('soul lock')
 })
 
-/*StartupEvents.registry("block", event => {
-
-    const anim = RawAnimation.begin().thenLoop("idel");
-
-    event.create("soul_lock_block", "animatable")
-        .box(1, 1, 1, 15, 15, 15, true)
-
-        .animatableBlockEntity(blockEntity => {
-            blockEntity.addController(state => state.setAndContinue(anim))
-        })
-
-        .defaultGeoModel()
-})*/
-
 StartupEvents.registry('block', event => {
     event.create('soul_lock_block')
     .displayName("soul_lock_block")

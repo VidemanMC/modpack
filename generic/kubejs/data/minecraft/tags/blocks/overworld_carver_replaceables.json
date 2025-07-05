@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:air",
+    "createteleporters:pocket_d_block"
+  ]
+}

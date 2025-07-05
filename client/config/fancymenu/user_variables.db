@@ -44,7 +44,7 @@ variable {
 
 variable {
   name = gsc_zr_head
-  value = 246.01
+  value = 0
   reset_on_launch = false
 }
 
@@ -68,7 +68,7 @@ variable {
 
 variable {
   name = custom_name
-  value = collname
+  value = custom
   reset_on_launch = false
 }
 
@@ -80,7 +80,7 @@ variable {
 
 variable {
   name = background_path
-  value = videman_projct/q_day
+  value = videman_projct/normal
   reset_on_launch = false
 }
 
@@ -92,7 +92,13 @@ variable {
 
 variable {
   name = gsc_xr_head
-  value = -328.0
+  value = 45
+  reset_on_launch = false
+}
+
+variable {
+  name = tmp_custom_name
+  value = custom
   reset_on_launch = false
 }
 
@@ -103,8 +109,26 @@ variable {
 }
 
 variable {
+  name = gsc_selected_part
+  value = body
+  reset_on_launch = false
+}
+
+variable {
   name = gsc_xr_body
-  value = 0
+  value = 45
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_selected_part_procent
+  value = 85
+  reset_on_launch = false
+}
+
+variable {
+  name = sk_pr_br
+  value = 20
   reset_on_launch = false
 }
 
@@ -121,8 +145,14 @@ variable {
 }
 
 variable {
+  name = is_skin_info_open
+  value = 
+  reset_on_launch = true
+}
+
+variable {
   name = selected_name
-  value = wwelol08__
+  value = Wwelol08__
   reset_on_launch = false
 }
 
@@ -135,6 +165,12 @@ variable {
 variable {
   name = vibeman_logo_path
   value = videman_projct/render_normal
+  reset_on_launch = false
+}
+
+variable {
+  name = slim_skin
+  value = 0
   reset_on_launch = false
 }
 
@@ -158,13 +194,19 @@ variable {
 
 variable {
   name = gsc_yr_head
-  value = 115.23
+  value = 0
   reset_on_launch = false
 }
 
 variable {
   name = 0
   value = 
+  reset_on_launch = false
+}
+
+variable {
+  name = gsc_zr_body
+  value = 0
   reset_on_launch = false
 }
 
@@ -187,8 +229,14 @@ variable {
 }
 
 variable {
+  name = skin_progress_bar
+  value = 100
+  reset_on_launch = false
+}
+
+variable {
   name = press_me
-  value = press_me
+  value = empty_tex
   reset_on_launch = false
 }
 

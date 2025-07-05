@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = settings.skins
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1734538797451
+  last_edited_time = 1749827511465
   is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:97d3c5a7-b4e0-4494-b7df-0238f38b7cc0-1736454531531] = [groups:][instances:]
+  [loading_requirement_container_meta:fe055c58-f20a-489c-a7c8-ffe7d13e810e-1749836915821] = [groups:][instances:]
 }
 
 customization {
@@ -24,19 +24,24 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
 }
 
 element {
   interactable = true
-  source = &k&e|&r &l&eСолнце &6активно! &k&e|
+  source = {"placeholder":"local","values":{"key":"vtco.gsc.sun_is_active"}}
   source_mode = direct
   shadow = true
   scale = 2.0
   base_color = #FFFFFFFF
   text_border = 2
   line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
+  enable_scrolling = false
+  auto_line_wrapping = false
   remove_html_breaks = true
   code_block_single_color = #737373FF
   code_block_multi_color = #565656FF
@@ -54,17 +59,32 @@ element {
   instance_identifier = a6c29cb1-d8ed-47c9-a7e8-5af2b25a4e49-1734538460833
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
-  anchor_point = top-centered
-  x = -99
-  y = 42
-  width = 198
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1017
+  sticky_anchor = false
+  anchor_point = bottom-left
+  x = 9
+  y = -41
+  width = 206
   height = 29
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 061be9f9-8774-470e-a39a-5188b8fdba94-1734538460833
   [loading_requirement_container_meta:061be9f9-8774-470e-a39a-5188b8fdba94-1734538460833] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 

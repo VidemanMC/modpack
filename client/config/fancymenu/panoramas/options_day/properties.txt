@@ -1,0 +1,8 @@
+type = panorama
+
+panorama-meta {
+  name = options_day
+  speed = 1.3
+  fov = 83.0
+  angle = -22.0
+}

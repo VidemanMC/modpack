@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "all": "createteleporters:block/quantum_casing"
+  }
+}

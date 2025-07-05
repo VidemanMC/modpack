@@ -138,8 +138,8 @@
       "attributes": [
         {
           "name": "minecraft:generic.movement_speed",
-          "operation": "multiply_base",
-          "amount": 0.25
+          "operation": "multiply_total",
+          "amount": -0.25
         }
       ],
       "status_effects": [
@@ -154,6 +154,183 @@
           "match": "all",
           "above": 0.8,
           "below": 1.0
+        }
+      ]
+    },
+    
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": -4
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.0,
+          "below": 0.15
+        },
+        {
+          "groups": ["fruits", "vegetables", "grains"],
+          "match": "any",
+          "above": 0.55,
+          "below": 1.0
+        }
+      ]
+    },
+    
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "multiply_base",
+          "amount": -4
+        }
+      ],
+      "status_effects": [
+        {
+          "name": "minecraft:hunger",
+          "power": 2
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "above": 0.45,
+          "below": 1.0
+        },
+        {
+          "groups": ["fruits", "vegetables", "grains"],
+          "match": "all",
+          "above": 0.0,
+          "below": 0.1
+        }
+      ]
+    },
+
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": 2.0
+        },
+        {
+          "name": "minecraft:generic.attack_damage",
+          "operation": "add",
+          "amount": -2.0
+        },
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": -3.0
+        },
+        {
+          "name": "minecraft:generic.attack_speed",
+          "operation": "multiply_total",
+          "amount": -0.1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["proteins"],
+          "match": "all",
+          "below": 0.15
+        },
+        {
+          "groups": ["fruits", "vegetables", "grains"],
+          "match": "all",
+          "above": 0.55
+        }
+      ]
+    },
+
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": -2.0
+        },
+        {
+          "name": "minecraft:generic.attack_damage",
+          "operation": "add",
+          "amount": -3.0
+        },
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": -3.0
+        },
+        {
+          "name": "minecraft:generic.attack_speed",
+          "operation": "multiply_total",
+          "amount": -0.2
+        }
+      ],
+      "status_effects": [
+        {
+          "name": "minecraft:nausea",
+          "power": 1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["fruits"],
+          "match": "all",
+          "above": 0.75
+        },
+        {
+          "groups": ["proteins", "vegetables", "grains"],
+          "match": "all",
+          "below": 0.15
+        }
+      ]
+    },
+
+    {
+      "attributes": [
+        {
+          "name": "minecraft:generic.max_health",
+          "operation": "add",
+          "amount": -1.0
+        },
+        {
+          "name": "minecraft:generic.attack_damage",
+          "operation": "add",
+          "amount": -1.0
+        },
+        {
+          "name": "minecraft:generic.armor_toughness",
+          "operation": "add",
+          "amount": -5.0
+        },
+        {
+          "name": "minecraft:generic.attack_speed",
+          "operation": "multiply_total",
+          "amount": -0.5
+        }
+      ],
+      "status_effects": [
+        {
+          "name": "minecraft:nausea",
+          "power": 1
+        }
+      ],
+      "conditions": [
+        {
+          "groups": ["grains"],
+          "match": "all",
+          "above": 0.85
+        },
+        {
+          "groups": ["proteins", "vegetables", "fruits"],
+          "match": "all",
+          "below": 0.05
         }
       ]
     }

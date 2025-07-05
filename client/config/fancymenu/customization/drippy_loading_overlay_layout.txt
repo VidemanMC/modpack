@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1739113994213
+  last_edited_time = 1746798843290
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:58b245e4-17b5-4942-9807-6e1e187a4f6f-1739113703319] = [groups:][instances:]
+  [loading_requirement_container_meta:a88bbbeb-33dc-480b-91f7-ef8a62ee97d6-1746798863889] = [groups:][instances:]
 }
 
 menu_background {
@@ -79,7 +79,13 @@ element {
   [loading_requirement_container_meta:4b0e7b6a-5649-488b-8546-da112c98fd6d-1739113772712] = [groups:][instances:09506f64-f684-4461-a9a1-42dd040bce56-1739113773738;0bb3307d-8227-43fe-aae0-805a326b604c-1739113839411;]
   [loading_requirement:fancymenu_visibility_requirement_is_realtime_week_day][requirement_mode:if][req_id:09506f64-f684-4461-a9a1-42dd040bce56-1739113773738] = 1
   [loading_requirement:fancymenu_visibility_requirement_is_realtime_month][requirement_mode:if][req_id:0bb3307d-8227-43fe-aae0-805a326b604c-1739113839411] = 2
-  [executable_block:3e9a5fc9-ba03-4b96-80b7-384f9bf18bd6-1734465310959][type:generic] = [executables:d9edb5d5-a620-446a-a1c2-2da3d4d524b5-1734465443284;7d30f064-728a-49a5-ada5-be7c569c6a22-1739113873322;]
+  [executable_action_instance:f66caef4-e3eb-4695-99a7-7d2e3022f74b-1746798315806][action_type:enable_layout] = drippy_loading_overlay_layout_easter
+  [executable_action_instance:f7d583c0-6f34-4472-b879-4978c91a6a46-1746798735327][action_type:disable_layout] = drippy_loading_overlay_layout
+  [executable_block:6b3ca8ce-e160-46cb-b9d0-68809259e79c-1746798313545][type:if] = [executables:f66caef4-e3eb-4695-99a7-7d2e3022f74b-1746798315806;f7d583c0-6f34-4472-b879-4978c91a6a46-1746798735327;]
+  [if_executable_block_body:6b3ca8ce-e160-46cb-b9d0-68809259e79c-1746798313545] = 77b1edcf-a4f6-4126-9e3a-fbc8e3c188c9-1746798240806
+  [loading_requirement_container_meta:77b1edcf-a4f6-4126-9e3a-fbc8e3c188c9-1746798240806] = [groups:][instances:c8531484-98e5-4b2c-8abe-c0337b6ae440-1746798241997;]
+  [loading_requirement:fancymenu_visibility_requirement_is_realtime_month][requirement_mode:if][req_id:c8531484-98e5-4b2c-8abe-c0337b6ae440-1746798241997] = 4
+  [executable_block:3e9a5fc9-ba03-4b96-80b7-384f9bf18bd6-1734465310959][type:generic] = [executables:d9edb5d5-a620-446a-a1c2-2da3d4d524b5-1734465443284;7d30f064-728a-49a5-ada5-be7c569c6a22-1739113873322;6b3ca8ce-e160-46cb-b9d0-68809259e79c-1746798313545;]
   element_type = fancymenu_customization_item_ticker
   instance_identifier = 30c9352a-c48b-48f3-af24-c06d57150186-1734465310959
   appearance_delay = no_delay

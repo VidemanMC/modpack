@@ -48,6 +48,57 @@ net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 com.illusivesoulworks.diet.client.screen.DietScreen {
 }
 
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+ru.marduk.nedologin.client.SetPasswordScreen {
+}
+
 net.minecraftforge.client.gui.ModListScreen {
+}
+
+net.minecraft.client.gui.screens.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.VideoSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+com.teamabnormals.blueprint.client.screen.SlabfishHatScreen {
+}
+
+net.minecraft.client.gui.screens.DisconnectedScreen {
+}
+
+net.minecraft.client.gui.screens.achievement.StatsScreen {
+}
+
+de.keksuccino.justzoom.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.GenericDirtMessageScreen {
+}
+
+net.minecraft.client.gui.screens.ProgressScreen {
+}
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmLinkScreen {
 }
 

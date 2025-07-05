@@ -24,3 +24,5 @@ dojyaaan~
 §4[main/Error][minecraft]: Server "mods.videmanmc.ru" ofline
 Деньги ничего не стоят, если на них нельзя купить орешки
 Лучше посрать и опоздать, чем прийти и обосраться
+.
+This text is very hard to read if you're playing Minecraft™ (2011) by Microsoft™, but in a file with the path "./config/fancymenu/assets/" it's probably, possibly fine! What is Minecraft™ (2011) you ask? Well, Minecraft™ (2011) (pronounced: Minecraft; from the English words mine - "mine; to extract" + craft - "craft; to create") is an indie sandbox video game created by Swedish programmer Markus Persson and published by his studio Mojang AB™. In 2009, Persson published the initial version of the game; in late 2011, a stable version was released for Windows™, Linux, and macOS™ computers and distributed through the official website.

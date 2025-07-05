@@ -1,0 +1,27 @@
+{
+	"items": [
+		{
+			"item": "alexsmobs:animal_dictionary",
+			"count": 1
+		},
+		{
+			"item": "ars_nouveau:worn_notebook",
+			"count": 1
+		},
+		{
+			"item": "patchouli:guide_book",
+			"count": 1,
+			"nbt": "{\"patchouli:book\":\"divinerpg:divine\"}"
+		},
+		{
+			"item": "patchouli:guide_book",
+			"count": 1,
+			"nbt": "{\"patchouli:book\":\"irons_spellbooks:iss_guide_book\"}"
+		},
+		{
+			"item": "patchouli:guide_book",
+			"count": 1,
+			"nbt": "{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}"
+		}
+	]
+}
