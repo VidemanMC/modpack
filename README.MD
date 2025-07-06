@@ -1,7 +1,8 @@
 # VidemanMC Modpack
 In this repository the modpack from our modded server is stored. We keep it in specific structure:
-1. `client/` — directory for client part
-2. `server/`
+1. `client/` — client part
+1. `server/` — server part.
+1. `generic/` — here are stored content for both, client and server parts.
 
 ## Why?
 1. For the launcher to be able to download modpack without server part.
