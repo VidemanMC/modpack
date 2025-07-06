@@ -1,2 +1,11 @@
-## About
-In this repository a modpack of Videman server is stored, grouped to server and client parts. The structure need to keep modpack structure clean.
+# VidemanMC Modpack
+In this repository the modpack from our modded server is stored. We keep it in specific structure:
+1. `client/` — directory for client part
+2. `server/`
+
+## Why?
+1. For the launcher to be able to download modpack without server part.
+1. To speed up the upgrade process — it is not need to separate mods into client and server parts every time the modpack is being updated.
+
+### What is `hash.txt` file?
+This file is used by the [launcher](https://github.com/VidemanMC/launcher) to check if local files are outdated.
