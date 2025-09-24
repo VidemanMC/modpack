@@ -26,6 +26,7 @@ update-exclude:
 - patchouli_books/
 - potionblender/
 - saves/
+- versions/
 - schematics/
 - screenshots/
 - shaderpacks/
