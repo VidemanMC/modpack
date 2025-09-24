@@ -15,6 +15,7 @@ update-exclude:
 - servers.dat_old
 - servers.dat.bak
 - assets/
+- libraries/
 - .cache/
 - blueprints/
 - crash-reports/
