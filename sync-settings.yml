@@ -9,6 +9,7 @@ update-exclude:
 - .nl_password
 - config/sodium-settings.json
 - patchouli_data.json
+- launcher_profiles.json
 - usercache.json
 - usernamecache.json
 - servers.dat_old
