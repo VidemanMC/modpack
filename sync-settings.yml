@@ -8,6 +8,7 @@ update-exclude:
 - options.txt
 - .nl_password
 - config/sodium-settings.json
+- config/fmsia/users.json
 - config/fml.toml
 - patchouli_data.json
 - launcher_profiles.json
