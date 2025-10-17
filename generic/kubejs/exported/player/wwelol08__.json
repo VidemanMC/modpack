@@ -1,141 +1,27 @@
 {
 	"items": [
 		{
-			"item": "paganbless:belladonna_plant",
-			"count": 64
+			"item": "alexsmobs:animal_dictionary",
+			"count": 1
 		},
 		{
-			"item": "paganbless:hags_taper_plant",
-			"count": 64
+			"item": "ars_nouveau:worn_notebook",
+			"count": 1
 		},
 		{
-			"item": "paganbless:lavender_plant",
-			"count": 64
-		},
-		{
-			"item": "paganbless:mandrake_root_plant",
-			"count": 64
-		},
-		{
-			"item": "paganbless:mugwort_plant",
-			"count": 64
-		},
-		{
-			"item": "paganbless:rue_plant",
-			"count": 64
-		},
-		{
-			"item": "minecraft:trident",
+			"item": "patchouli:guide_book",
 			"count": 1,
-			"nbt": "{Damage:0,Enchantments:[{id:\"kubejs:trident_ride\",lvl:1s}]}"
+			"nbt": "{\"patchouli:book\":\"divinerpg:divine\"}"
 		},
 		{
-			"item": "kubejs:trident_blesing",
-			"count": 1
-		},
-		{
-			"item": "kubejs:soul_lock",
-			"count": 61
-		},
-		{
-			"item": "minecraft:chipped_anvil",
-			"count": 1
-		},
-		{
-			"item": "minecraft:damaged_anvil",
-			"count": 1
-		},
-		{
-			"item": "minecraft:trident",
+			"item": "patchouli:guide_book",
 			"count": 1,
-			"nbt": "{Damage:0}"
+			"nbt": "{\"patchouli:book\":\"irons_spellbooks:iss_guide_book\"}"
 		},
 		{
-			"item": "minecraft:enchanted_book",
+			"item": "patchouli:guide_book",
 			"count": 1,
-			"nbt": "{StoredEnchantments:[{id:\"tombstone:soulbound\",lvl:1s}]}"
-		},
-		{
-			"item": "gateways:gate_pearl",
-			"count": 1,
-			"nbt": "{gateway:\"gateways:endless/blaze\"}"
-		},
-		{
-			"item": "gateways:gate_pearl",
-			"count": 1,
-			"nbt": "{gateway:\"gateways:overworldian_nights\"}"
-		},
-		{
-			"item": "gateways:gate_pearl",
-			"count": 1,
-			"nbt": "{gateway:\"gateways:emerald_grove\"}"
-		},
-		{
-			"item": "gateways:gate_pearl",
-			"count": 1,
-			"nbt": "{gateway:\"gateways:hellish_fortress\"}"
-		},
-		{
-			"item": "kubejs:lunar_stump",
-			"count": 2
-		},
-		{
-			"item": "kubejs:lunar_shards_default",
-			"count": 14
-		},
-		{
-			"item": "kubejs:lunar_shards_harvest",
-			"count": 15
-		},
-		{
-			"item": "kubejs:lunar_shards_blue",
-			"count": 15
-		},
-		{
-			"item": "kubejs:lunar_shards_blood",
-			"count": 15
-		},
-		{
-			"item": "create:wrench",
-			"count": 1
-		},
-		{
-			"item": "create:copper_valve_handle",
-			"count": 1
-		},
-		{
-			"item": "create:mechanical_bearing",
-			"count": 1
-		},
-		{
-			"item": "create:secondary_linear_chassis",
-			"count": 1
-		},
-		{
-			"item": "create:item_vault",
-			"count": 1
-		},
-		{
-			"item": "create:andesite_funnel",
-			"count": 1
-		},
-		{
-			"item": "create:super_glue",
-			"count": 1,
-			"nbt": "{Damage:0}"
-		},
-		{
-			"item": "kubejs:vide_block",
-			"count": 1
-		},
-		{
-			"item": "minecraft:debug_stick",
-			"count": 1,
-			"nbt": "{DebugProperty:{\"minecraft:anvil\":\"facing\"}}"
-		},
-		{
-			"item": "kubejs:rune_grind",
-			"count": 1
+			"nbt": "{\"patchouli:book\":\"apotheosis:apoth_chronicle\"}"
 		}
 	]
 }
