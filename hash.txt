@@ -694,10 +694,10 @@ generic/kubejs/data/paganbless/loot_tables/blocks/rune_slab_quartz.json:709d7800
 generic/kubejs/data/kubejs/tags/items/slou_lock_allowed.json:ec3934f8421809661be4bcbbdbe5a4e0
 generic/kubejs/data/minecraft/tags/blocks/overworld_carver_replaceables.json:dda003164d58f1b84f13d780e909a5d2
 generic/kubejs/data/diet/tags/items/sugars.json:9a0815f6ced66483c3f6c3b7cb2002a4
-generic/kubejs/data/diet/tags/items/vegetables.json:651ab2027c09b37fbf72a3eaaab09e9e
-generic/kubejs/data/diet/tags/items/poisoning.json:8bc68fc9d4b7c885bed72f25b16bebfa
-generic/kubejs/data/diet/tags/items/proteins.json:1bb8db2eccd5fbac65ed7a276805f36d
-generic/kubejs/data/diet/tags/items/grains.json:67c1eacef4c63f1966fff32b68d5c549
+generic/kubejs/data/diet/tags/items/vegetables.json:8ef4a21e16b4060f12452a4f5b2ff695
+generic/kubejs/data/diet/tags/items/poisoning.json:3d1b62091509571c7935113dea8e96de
+generic/kubejs/data/diet/tags/items/proteins.json:d0620c0d313b868eae5d67618a368449
+generic/kubejs/data/diet/tags/items/grains.json:f7e259e1dbc0406f0ce7f7f5f0a4367c
 generic/kubejs/data/diet/tags/items/fruits.json:6a4387840a57c4b06d9d82e7a46079f4
 generic/kubejs/data/special.json:c8a3bcbe9bddb58652a4cccf95096620
 generic/kubejs/data/diet_too/diet/suites/builtin.json:2319a40e057550ab23d925bb7adcdc8c
