@@ -1,7 +1,6 @@
 {
     "replace": false,
 	"values": [
-	  "vampirism:garlic_bread",
 	  "netherexp:nether_pizza_slice"
 	]
 }

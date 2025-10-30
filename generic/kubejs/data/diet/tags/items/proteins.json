@@ -1,8 +1,6 @@
 {
     "replace": false,
 	"values": [
-	  "vampirism:weak_human_heart",
-	  "vampirism:human_heart",
 	  "obscure_api:vial_of_knowledge",
 	  "galosphere:preserved_flesh",
 	  "divinerpg:raw_seng_meat",
