@@ -410,7 +410,7 @@ client/config/fancymenu/legacy_checklist.txt:bc03e01c4f1bf1e24e9b86591baa512b
 client/config/cavedust.toml:8e997b8b2f042cdf5ad21e413a888c0d
 client/config/dynamic_fps.json:8a80554c91d9fca8acb82f023de02f11
 client/servers.dat:3f112d8567ca7b48d8ad6a1b67dfacc4
-client/options.txt:0e5bc9e58b44e44f80731b35d0882c9a
+client/options.txt:843dc3bd1dacc55d1da7b6c593136254
 client/mods/BetterAdvancements-NeoForge-1.20.1-0.4.2.10.jar:6c2889c4f7b581c03420e6705ff4bd27
 client/mods/fancymenu_forge_3.5.2_MC_1.20.1.jar:c67bc748e4099f0a9ac24ef90241a02d
 client/mods/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar:e104ab9263aae79fd2fcb4f0f9f258cc
