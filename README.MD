@@ -1,5 +1,5 @@
 # not VidemanMC Modpack since 03.11.25
-In this repository the modpack from our modded server is stored. We keep it in specific structure:
+In was repository the modpack from our modded server is stored. I keep it in specific structure:
 1. `client/` — client part
 1. `server/` — server part.
 1. `generic/` — here are stored content for both, client and server parts.
