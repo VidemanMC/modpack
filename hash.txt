@@ -744,7 +744,7 @@ generic/kubejs/server_scripts/trident_ride.js:ae76bf20456527a6284a93c96e6b3007
 generic/kubejs/server_scripts/tmpS.js:d41d8cd98f00b204e9800998ecf8427e
 generic/kubejs/server_scripts/soul_lock_pleasment.js:2a6c66f373c60e4ce94c8034a78cccd7
 generic/kubejs/server_scripts/commands.js:8d6844e10a61905ce7ed25ca71244294
-generic/kubejs/server_scripts/test_clik.js:339e1917779588af1e5e4613580dc10c
+generic/kubejs/server_scripts/test_clik.js:4281a3539d1e2283b20c8a084502f7f8
 generic/kubejs/server_scripts/plaer_persistent_data.js:c12c8a763f2bc31666ed61d13122a20b
 generic/kubejs/probe.7z:1d508909dfd96b1021cf515e712eb9cc
 generic/kubejs/exported/player/Wwelol08__.json:3889ac862dc43c97939141b0d1c13143
