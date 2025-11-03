@@ -1,5 +1,4 @@
-
-ItemEvents.firstRightClicked('kubejs:trident_blesing', e =>{
+/*ItemEvents.firstRightClicked('kubejs:trident_blesing', e =>{
     if(player.persistentData.getBoolean("trident_blesing")){
         player.persistentData.putBoolean("trident_blesing", false);
         e.server.runCommand("/tell @a F");
@@ -7,7 +6,7 @@ ItemEvents.firstRightClicked('kubejs:trident_blesing', e =>{
         player.persistentData.putBoolean("trident_blesing", true);
         e.server.runCommand("/tell @a T");
     }
-})
+})*/
 
 // soul_lock
 ItemEvents.firstRightClicked("kubejs:soul_lock", e => {
